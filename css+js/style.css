@@ -1,0 +1,16 @@
+ .hero{
+     margin-bottom: 3em;
+  }
+  #footer{
+     margin-top: 3em;
+  }
+  #brain{
+    float: left;
+    margin-left: 2.5em;
+  }
+  #brainhub, .author{
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 1em;
+  }
